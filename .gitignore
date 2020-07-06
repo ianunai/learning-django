@@ -1,0 +1,8 @@
+# SQLite DB
+*.sqlite3
+
+# IntelliJ IDEA
+.idea
+
+# MacOS
+.DS_Store
