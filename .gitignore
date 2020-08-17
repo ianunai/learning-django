@@ -1,6 +1,9 @@
 # SQLite DB
 *.sqlite3
 
+# Virtual Environment
+venv
+
 # IntelliJ IDEA
 .idea
 
